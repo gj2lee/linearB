@@ -1,1 +1,1 @@
-int cal(int i, int j);
+int calculate (int i, int j);
